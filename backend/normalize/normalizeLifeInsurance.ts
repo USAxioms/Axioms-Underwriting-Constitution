@@ -1,4 +1,3 @@
-// backend/normalize/normalizeLifeInsurance.ts
 //
 // Converts raw life insurance applicant data into the 0..1 WAD
 // favorability scores that underwriteLifeInsurance.ts consumes.
