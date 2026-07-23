@@ -1,4 +1,3 @@
-// backend/wad/wadTypes.ts
 //
 // Shared type definitions for WAD (18-decimal fixed point) values used
 // across every domain engine (credit, mortgage, life insurance). Keeping
