@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "domain": "credit",
+  "weights": {
+    "payment_history": 3500,
+    "utilization": 3000,
+    "history_length": 1500,
+    "credit_mix": 1000,
+    "new_credit": 1000
+  },
+  "minThresholdWad": "620000000000000000",
+  "statutoryRefs": ["FCRA 15 U.S.C. 1681", "ECOA 15 U.S.C. 1691"]
+}
