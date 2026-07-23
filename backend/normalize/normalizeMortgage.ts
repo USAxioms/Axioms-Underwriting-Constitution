@@ -1,4 +1,3 @@
-// backend/normalize/normalizeMortgage.ts
 //
 // Converts raw mortgage applicant data into the 0..1 WAD favorability
 // scores that underwriteMortgage.ts consumes.
