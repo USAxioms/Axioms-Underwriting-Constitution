@@ -1,4 +1,3 @@
-// backend/api/validate.ts
 //
 // Basic structural + bounds validation before any raw applicant data
 // reaches normalize/engine code. Intentionally simple (no external
