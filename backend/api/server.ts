@@ -1,4 +1,3 @@
-// backend/api/server.ts
 //
 // Thin HTTP layer over the existing pipeline:
 //   raw JSON -> normalize* -> underwrite* -> ChainClient.anchorDecision
