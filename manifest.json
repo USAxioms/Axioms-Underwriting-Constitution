@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "domain": "life_insurance",
+  "weights": {
+    "age_band": 2500,
+    "health_class": 3500,
+    "tobacco_use": 1500,
+    "coverage_to_income_ratio": 1500,
+    "family_history": 1000
+  },
+  "minThresholdWad": "650000000000000000",
+  "statutoryRefs": ["NAIC Model Underwriting Guidelines", "State Insurance Codes (unfair discrimination provisions)"]
+}
