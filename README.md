@@ -1,18 +1,19 @@
 # Axioms Underwriting Constitution
 
-A deterministic, transparent, auditable underwriting standard that replaces
-opaque, model-driven underwriting with constitutional execution and machine-verifiable fairness.
+A deterministic, transparent, and auditable underwriting standard designed to
+replace opaque, model-driven underwriting systems across all financial and
+operational domains.
 
-## Core Principles
-- Deterministic execution
-- Constitutional fairness
-- Immutable auditability
-- Cross-domain consistency
-- Regulatory alignment
-- Bias elimination
-- Fault-bounded behavior
+## Purpose
+To establish a constitutional framework that ensures underwriting decisions are:
+- Fair
+- Deterministic
+- Transparent
+- Regulator-aligned
+- Machine-verifiable
+- Immutable and auditable
 
-## Components
+## Core Components
 - Eligibility Ruleset
 - Risk Ruleset
 - Exposure Ruleset
@@ -24,26 +25,26 @@ opaque, model-driven underwriting with constitutional execution and machine-veri
 - Permissioning Standard
 - Governance Model
 
-## Purpose
-To establish a global underwriting standard that ensures fairness, safety,
-and transparency across all underwriting domains.
+## Domains Supported
+- Credit underwriting
+- Insurance underwriting
+- Real estate underwriting
+- Energy underwriting
+- AI-risk underwriting
+- Autonomous systems
+- Commercial underwriting
+- Small business underwriting
 
-## Domains Covered
-- Credit
-- Insurance
-- Real Estate
-- Energy
-- AI-risk
-- Autonomous Systems
-- Commercial
-- Small Business
+## Architecture Overview
+The repository defines the constitutional logic.
+The execution engine performs deterministic underwriting.
+The ledger records immutable underwriting history.
 
 ## Integration
-- Ruleset Execution API
+- Deterministic Ruleset Execution API
 - Ledger-based audit trails
-- Deterministic scoring engines
+- Compliance verification endpoints
 - Permissioned access control
-- Compliance verification
 
 ## Governance
-Rules evolve through constitutional amendment, versioning, and safety-layer enforcement.
+Rules evolve through constitutional amendment, versioning, and safety-layer validation.
