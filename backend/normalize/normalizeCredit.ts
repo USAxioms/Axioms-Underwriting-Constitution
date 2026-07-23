@@ -1,4 +1,3 @@
-// backend/normalize/normalizeCredit.ts
 //
 // Converts raw credit applicant data into the 0..1 WAD favorability
 // scores that underwriteCredit.ts consumes. All boundary values below
