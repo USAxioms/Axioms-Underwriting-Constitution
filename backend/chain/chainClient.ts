@@ -1,4 +1,3 @@
-// backend/chain/chainClient.ts
 //
 // Backend-side interface to the on-chain governance layer.
 // Two responsibilities, matching the contracts:
