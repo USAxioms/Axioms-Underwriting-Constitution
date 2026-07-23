@@ -1,4 +1,3 @@
-// backend/engine/underwriteCredit.ts
 //
 // Deterministic credit underwriting decision. Pure WAD math — no
 // floating point, no ML. Factor scores in, weighted composite out,
