@@ -1,4 +1,3 @@
-// backend/engine/underwriteMortgage.ts
 //
 // Deterministic mortgage underwriting decision. Pure WAD math.
 // Inputs are pre-normalized to 0..1 WAD "favorability" scores upstream
