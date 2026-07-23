@@ -1,4 +1,3 @@
-// backend/storage/applicantStore.ts
 //
 // Raw applicant data (name, income, health details, etc.) must NEVER
 // go on-chain — only hashes do. This module is where the raw data
