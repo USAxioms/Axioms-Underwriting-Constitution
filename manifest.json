@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "domain": "mortgage",
+  "weights": {
+    "loan_to_value": 3000,
+    "debt_to_income": 3000,
+    "credit_score": 2000,
+    "cash_reserves": 1000,
+    "employment_history": 1000
+  },
+  "minThresholdWad": "700000000000000000",
+  "statutoryRefs": ["TILA 15 U.S.C. 1601", "RESPA 12 U.S.C. 2601", "ECOA 15 U.S.C. 1691"]
+}
