@@ -1,4 +1,3 @@
-// backend/adverse-action/adverseActionNotice.ts
 //
 // Generates the specific-reasons adverse action notice required by:
 //   - ECOA / Regulation B (12 CFR 1002.9) for credit and mortgage denials
