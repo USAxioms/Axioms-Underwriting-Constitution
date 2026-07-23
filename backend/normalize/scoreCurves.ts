@@ -1,4 +1,3 @@
-// backend/normalize/scoreCurves.ts
 //
 // Generic WAD-based curve helpers used by every domain's normalization
 // layer to turn a raw applicant value (a ratio, an age, a count) into a
