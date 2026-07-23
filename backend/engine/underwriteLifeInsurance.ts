@@ -1,4 +1,3 @@
-// backend/engine/underwriteLifeInsurance.ts
 //
 // Deterministic life insurance underwriting decision. Pure WAD math.
 // As with the other engines, inputs are pre-normalized 0..1 WAD
