@@ -1,4 +1,3 @@
-// backend/test/scoreCurves.test.ts
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { WAD_ONE, WAD_ZERO } from "../wad/wadTypes";
