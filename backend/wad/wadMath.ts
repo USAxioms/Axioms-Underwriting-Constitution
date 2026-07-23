@@ -1,4 +1,3 @@
-// backend/wad/wadMath.ts
 //
 // Deterministic fixed-point (WAD, 18-decimal) math. No floating point
 // arithmetic anywhere in this file — every operation is integer bigint
